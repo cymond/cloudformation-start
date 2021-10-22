@@ -18,6 +18,11 @@
                 "Ref": "S3Bucket"
             },
             "Description": "Name of our S3 bucket"
-        }
+        },
+        "InstanceName": {
+            "Value": {
+                "Ref": "MyInstance"
+            },
+            "Description": "Name of the Instance"
     }
 }
