@@ -24,5 +24,6 @@
                 "Ref": "MyInstance"
             },
             "Description": "Name of the Instance"
+        }
     }
 }
